@@ -1,21 +1,20 @@
-# Welcome to My GitHub Profile
+# 👋 Welcome to My GitHub
 
-Hello, I'm Jagger Denhof, a Computer Science major currently pursuing a master's degree in Applied Computing with an expected graduation in 2025.
+Hi, I'm Jagger Denhof, currently pursuing a Computer Science major and a combined master's degree in Applied Computing with an expected graduation in 2025.
 
-## About Me
+## 📌 About Me
 
-- 🔬 Computer Science Major at Grand Valley State University.
+- 🖥️ Computer Science Major at Grand Valley State University.
 - 💼 Programming Intern at UFP Industries.
-- 🧰 Mechanical and Electrical Assembler at National Bulk Equipment, Inc. for over 3 years.
-- 📚 Passionate about learning, challenges, and solving problems.
+- 🚀 Interested in the world of ML and AI
 
-## GitHub Activity
+## 🚀 GitHub Activity
 
-- 🌟 Feel free to explore my repositories and projects.
-- 💬 Open to collaborations and discussions related to programming and computer science.
+- 🌟 Research Project involving building Variational Autoencoders from scratch in python using numpy.
+- 📱 ProjectOutfit: A mobile app built on Flutter and Firebase to manage when you where your clothes.
 
-## Get in Touch
+## 📫 Let's Connect
 
-- 📫 You can reach out to me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jaggerdenhof).
+- 📨 Feel free to reach out to me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jaggerdenhof).
 
-Thanks for visiting my GitHub profile! Feel free to connect, collaborate, or explore the projects I've been working on.
+Thanks for visiting my GitHub space! Feel free to connect, collaborate, or explore the projects I'm working on.
