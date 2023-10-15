@@ -12,6 +12,7 @@ Hi, I'm Jagger Denhof, currently pursuing a Computer Science major and a combine
 
 - 🌟 Research Project involving building Variational Autoencoders from scratch in python using numpy.
 - 📱 ProjectOutfit: A mobile app built on Flutter and Firebase to manage when you where your clothes.
+- 📊 Trello Repository: A Python application for interfacing with Trello to create new cards and manage tasks.
 
 ## 📫 Let's Connect
 
