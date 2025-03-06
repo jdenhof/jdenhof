@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I am currently pursuing a Computer Science major and a combined master's degree in Applied Computing with an expected graduation in 2025.
+I am currently pursuing a Computer Science major with an expected graduation in 2025.
 
 ## 📌 About Me
 
