@@ -10,7 +10,7 @@ I am currently pursuing a Computer Science major with an expected graduation in 
 
 ## 🚀 GitHub Activity
 
-- 🌟 Research Project involving building Variational Autoencoders from scratch in python using numpy.
+- 🌟 MMVAE: Research Project involving building Variational Autoencoders from scratch in python using numpy.
 - 📱 ProjectOutfit: A mobile app built on Flutter and Firebase to manage when you where your clothes.
 - 📊 Trello Repository: A Python application for interfacing with Trello to create new cards and manage tasks.
 
