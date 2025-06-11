@@ -1,17 +1,17 @@
 # 👋 Welcome
 
-I am currently pursuing a Computer Science major with an expected graduation in 2025.
+Graduated from Grand Valley State University in 2025 with a degree in Computer Science.
 
 ## 📌 About Me
 
-- 🖥️ Computer Science Major at Grand Valley State University.
+- 🖥️ Research under Dr. Zachary DeBruine at Grand Valley ACI.
 - 💼 Programming Intern at UFP Industries.
 - 🚀 Interested in the world of ML and AI
 
 ## 🚀 GitHub Activity
 
 - 🌟 MMVAE: Research Project involving building Variational Autoencoders from scratch in python using numpy.
-- 📱 ProjectOutfit: A mobile app built on Flutter and Firebase to manage when you where your clothes.
+- 📱 ProjectOutfit: A mobile app built on Flutter and Firebase to manage when you wear your clothes.
 - 📊 Trello Repository: A Python application for interfacing with Trello to create new cards and manage tasks.
 
 ## 📫 Let's Connect
